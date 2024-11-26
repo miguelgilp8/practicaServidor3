@@ -16,18 +16,25 @@
       <description>&lt;h1 id=&#34;canales-de-tv&#34;&gt;Canales de tv&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../&#34;&gt;HOME&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mi Pueblo</title>
-      <link>http://localhost:1313/practicaServidor3/pueblo/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/practicaServidor3/pueblo/</guid>
-      <description>&lt;h1 id=&#34;mi-pueblo-torrecilla-de-alcañiz&#34;&gt;Mi pueblo, Torrecilla de Alcañiz&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;torrecilla.jpg&#34; alt=&#34;Imagen de Miguel&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-mi-pueblo&#34;&gt;Sobre mi pueblo&lt;/h2&gt;&#xA;&lt;p&gt;Mi pueblo es un municipio tranquilo situado en la provincia de Teruel. Tiene al rededor de 450 habitantes los cuales se duplican practicamente en verano. Actualmente ninguno de mis amigos reside ahí por que no esta cerca de ningun sitio universitario, le guardo cariño porque toda mi familia vive alli pero no tengo pensado residir ahi en un futuro.&lt;/p&gt;</description>
+      <title>Java</title>
+      <link>http://localhost:1313/practicaServidor3/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/practicaServidor3/java/</guid>
+      <description>&lt;h1 id=&#34;explicacion-sobre-java&#34;&gt;Explicacion sobre Java&lt;/h1&gt;&#xA;&lt;p&gt;Java es un lenguaje de programación creado en 1995 por Sun Microsystems, que ahora pertenece a Oracle. Es uno de los lenguajes más populares en el mundo y se utiliza para desarrollar todo tipo de aplicaciones, desde programas para ordenadores hasta aplicaciones moviles y sistemas grandes como bancos o tiendas online.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características-principales-de-java&#34;&gt;Características principales de Java&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-es-fácil-de-aprender&#34;&gt;1. &lt;strong&gt;Es fácil de aprender&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Java está diseñado para ser simple y facil de entender. Sus reglas no son complicadas, y tiene mucha documentacion disponible.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Markdown</title>
       <link>http://localhost:1313/practicaServidor3/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/practicaServidor3/markdown/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;informacion-sobre-markdown&#34;&gt;Informacion sobre Markdown&lt;/h1&gt;&#xA;&lt;h2 id=&#34;que-es-markdown&#34;&gt;¿Que es Markdown?&lt;/h2&gt;&#xA;&lt;p&gt;Markdown es un lenguaje con un tipo de formato que se pueda convertir fácilmente en HTML o en otros formatos. Sue ser utilizado en la documentación de proyectos y demas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;puntos-a-explicar&#34;&gt;Puntos a explicar&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Markdown basico&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Markdown de graficos&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Markdown extendido&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;markdown-basico&#34;&gt;Markdown basico&lt;/h3&gt;&#xA;&lt;p&gt;Es todo el código que engloba encabezados, listas, enlaces e imagenes.&lt;/p&gt;&#xA;&lt;h4 id=&#34;listas&#34;&gt;Listas&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Elemento 1&lt;/li&gt;&#xA;&lt;li&gt;Elemento 2&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sub-elemento 2.1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;enlaces&#34;&gt;Enlaces&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://miguelgilp8.github.io&#34;&gt;Visita mi blog&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mi Pueblo</title>
+      <link>http://localhost:1313/practicaServidor3/pueblo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/practicaServidor3/pueblo/</guid>
+      <description>&lt;h1 id=&#34;mi-pueblo-torrecilla-de-alcañiz&#34;&gt;Mi pueblo, Torrecilla de Alcañiz&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;torrecilla.jpg&#34; alt=&#34;Imagen de Miguel&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-mi-pueblo&#34;&gt;Sobre mi pueblo&lt;/h2&gt;&#xA;&lt;p&gt;Mi pueblo es un municipio tranquilo situado en la provincia de Teruel. Tiene al rededor de 450 habitantes los cuales se duplican practicamente en verano. Actualmente ninguno de mis amigos reside ahí por que no esta cerca de ningun sitio universitario, le guardo cariño porque toda mi familia vive alli pero no tengo pensado residir ahi en un futuro.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

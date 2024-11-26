@@ -1,7 +1,5 @@
 ---
 title: "Mi Pueblo"
-date: 2024-11-26
-draft: false
 ---
 
 # Mi pueblo, Torrecilla de Alcañiz

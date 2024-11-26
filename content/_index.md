@@ -4,6 +4,10 @@ title: "Mi presentación"
 Si te interesa conocer sobre mi pueblo, [haz clic aquí](pueblo/).
 
 Si te interesa conocer sobre sobre los canales de tv, [haz clic aquí](canales_tv/).
+
+Si te interesa conocer sobre markdown [haz clic aquí](markdown/).
+
+Si te interesa conocer sobre java [haz clic aquí](java/).
 # ¡Me presento, soy Miguel.
 
 ![Imagen de Miguel](imagenes/imagen1.jpg)
