@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi presentación on Mi Página Personal</title>
-    <link>http://localhost:63982/practicaServidor3/</link>
+    <link>http://localhost:1313/practicaServidor3/</link>
     <description>Recent content in Mi presentación on Mi Página Personal</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 26 Nov 2024 21:45:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:63982/practicaServidor3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/practicaServidor3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PlantillaJason</title>
-      <link>http://localhost:63982/practicaServidor3/canales_tv/</link>
+      <link>http://localhost:1313/practicaServidor3/canales_tv/</link>
       <pubDate>Tue, 26 Nov 2024 21:45:25 +0200</pubDate>
-      <guid>http://localhost:63982/practicaServidor3/canales_tv/</guid>
-      <description>&lt;h1 id=&#34;canales-de-tv&#34;&gt;Canales de tv&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/practicaServidor3/canales_tv/</guid>
+      <description>&lt;h1 id=&#34;canales-de-tv&#34;&gt;Canales de tv&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../&#34;&gt;HOME&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mi Pueblo</title>
-      <link>http://localhost:63982/practicaServidor3/pueblo/</link>
+      <link>http://localhost:1313/practicaServidor3/pueblo/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63982/practicaServidor3/pueblo/</guid>
+      <guid>http://localhost:1313/practicaServidor3/pueblo/</guid>
       <description>&lt;h1 id=&#34;mi-pueblo-torrecilla-de-alcañiz&#34;&gt;Mi pueblo, Torrecilla de Alcañiz&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;torrecilla.jpg&#34; alt=&#34;Imagen de Miguel&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-mi-pueblo&#34;&gt;Sobre mi pueblo&lt;/h2&gt;&#xA;&lt;p&gt;Mi pueblo es un municipio tranquilo situado en la provincia de Teruel. Tiene al rededor de 450 habitantes los cuales se duplican practicamente en verano. Actualmente ninguno de mis amigos reside ahí por que no esta cerca de ningun sitio universitario, le guardo cariño porque toda mi familia vive alli pero no tengo pensado residir ahi en un futuro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/practicaServidor3/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/practicaServidor3/markdown/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
