@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://miguelgilp8.github.io/practicaServidor3/"
+languageCode = "es-es"
+title = "Mi Página Personal"
+theme = "hugo-bearblog"
