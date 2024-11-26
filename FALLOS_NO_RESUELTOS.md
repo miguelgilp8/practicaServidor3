@@ -1,0 +1,1 @@
+De ninguna manera he podido adjuntar imagenes en alguna página que no fuera el _index. Lo demas falta de css por falta de tiempo, tampoco he podido insertar un gráfico en el apartado de explicar el MD.
